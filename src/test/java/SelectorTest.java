@@ -36,6 +36,7 @@ public class SelectorTest {
         List<WebElement> inputs = driver.findElements(inputLocator);
         System.out.println(inputs.size());
 
+<<<<<<< HEAD
         //linkText
         By linkText = By.linkText("Visit W3Schools.com!");
         WebElement SchoolLink = driver.findElement(linkText);
@@ -46,6 +47,8 @@ public class SelectorTest {
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
